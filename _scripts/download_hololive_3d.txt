@@ -1,0 +1,39 @@
+
+
+Make a niconico account, and download the zips from the following pages.  For consistency, we recommend downloading to a folder named `./_data/lustrous/raw/hololive/`.
+
+Unfortunately we don't have a way to download these programatically, but the list has only less than 30 items.
+
+https://3d.nicovideo.jp/works/td83167  # aragami_oga
+https://3d.nicovideo.jp/works/td83166  # kageyama_shien
+https://3d.nicovideo.jp/works/td83164  # yukoku_roberu
+https://3d.nicovideo.jp/works/td83163  # temma_kishido
+https://3d.nicovideo.jp/works/td83162  # astel_leda
+https://3d.nicovideo.jp/works/td83161  # rikka
+https://3d.nicovideo.jp/works/td83160  # arurandeisu
+https://3d.nicovideo.jp/works/td83159  # kanade_izuru
+https://3d.nicovideo.jp/works/td82753  # hanasaki_miyabi
+https://3d.nicovideo.jp/works/td78507  # omaru_polka
+https://3d.nicovideo.jp/works/td78506  # shishiro_botan
+https://3d.nicovideo.jp/works/td78505  # momosuzu_nene
+https://3d.nicovideo.jp/works/td78503  # yukihana_lamy
+https://3d.nicovideo.jp/works/td78502  # tsunomaki_watame
+https://3d.nicovideo.jp/works/td78501  # amane_kanata
+https://3d.nicovideo.jp/works/td78500  # houshou_marine
+https://3d.nicovideo.jp/works/td74930  # sakura_miko
+https://3d.nicovideo.jp/works/td74928  # sakura_miko
+https://3d.nicovideo.jp/works/td63650  # inugami_korone
+https://3d.nicovideo.jp/works/td63649  # minato_aqua
+https://3d.nicovideo.jp/works/td63648  # nekomata_okayu
+https://3d.nicovideo.jp/works/td63647  # aki_haato
+https://3d.nicovideo.jp/works/td63646  # natsuiro_matsuri
+https://3d.nicovideo.jp/works/td63645  # roboco
+https://3d.nicovideo.jp/works/td63644  # aki_rosenthal
+https://3d.nicovideo.jp/works/td63641  # tokino_sora
+https://3d.nicovideo.jp/works/td63632  # murasaki_shion
+https://3d.nicovideo.jp/works/td63631  # yuzuki_choco
+https://3d.nicovideo.jp/works/td63626  # yozora_mel
+
+
+
+
